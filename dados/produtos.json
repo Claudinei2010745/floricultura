@@ -1,0 +1,228 @@
+{
+    "001": {
+        "nome": "Samambaia Americana",
+        "preco": 30.0,
+        "qtd": 4
+    },
+    "002": {
+        "nome": "Muda de Abacate",
+        "preco": 25.0,
+        "qtd": 2
+    },
+    "003": {
+        "nome": "Muda Ipê",
+        "preco": 40.0,
+        "qtd": 0
+    },
+    "004": {
+        "nome": "Jibóia ver Limão",
+        "preco": 35.0,
+        "qtd": 0
+    },
+    "005": {
+        "nome": "Samambaia Metro",
+        "preco": 50.0,
+        "qtd": 2
+    },
+    "006": {
+        "nome": "Anturio",
+        "preco": 45.0,
+        "qtd": 0
+    },
+    "007": {
+        "nome": "Avenca",
+        "preco": 25.0,
+        "qtd": 0
+    },
+    "008": {
+        "nome": "Peperonia",
+        "preco": 25.0,
+        "qtd": 0
+    },
+    "009": {
+        "nome": "Dracena Arborea",
+        "preco": 80.0,
+        "qtd": 0
+    },
+    "010": {
+        "nome": "Rabo de Macaco",
+        "preco": 25.0,
+        "qtd": 0
+    },
+    "011": {
+        "nome": "Ficus Elástica",
+        "preco": 45.0,
+        "qtd": 1
+    },
+    "012": {
+        "nome": "Flor de Maio",
+        "preco": 15.0,
+        "qtd": 4
+    },
+    "013": {
+        "nome": "jibóia",
+        "preco": 25.0,
+        "qtd": 0
+    },
+    "014": {
+        "nome": "Ipê Amarelo",
+        "preco": 40.0,
+        "qtd": 1
+    },
+    "015": {
+        "nome": "Muda Jabuticaba Híbrida 50cm de altura",
+        "preco": 60.0,
+        "qtd": 12
+    },
+    "016": {
+        "nome": "Jabuticaba Híbrida Enxertada",
+        "preco": 180.0,
+        "qtd": 0
+    },
+    "017": {
+        "nome": "Rosa Deserto",
+        "preco": 15.0,
+        "qtd": 0
+    },
+    "018": {
+        "nome": "Ficus Lyrata",
+        "preco": 40.0,
+        "qtd": 0
+    },
+    "019": {
+        "nome": "Crotons",
+        "preco": 100.0,
+        "qtd": 0
+    },
+    "020": {
+        "nome": "Costela de Adão",
+        "preco": 50.0,
+        "qtd": 0
+    },
+    "021": {
+        "nome": "Bromélias",
+        "preco": 45.0,
+        "qtd": 0
+    },
+    "022": {
+        "nome": "Dracena Cordelayne",
+        "preco": 40.0,
+        "qtd": 1
+    },
+    "023": {
+        "nome": "Coleus",
+        "preco": 30.0,
+        "qtd": 0
+    },
+    "024": {
+        "nome": "Dipladenia",
+        "preco": 25.0,
+        "qtd": 0
+    },
+    "025": {
+        "nome": "Dracena Chocolate",
+        "preco": 40.0,
+        "qtd": 1
+    },
+    "026": {
+        "nome": "Muda Caqui, Fuiu, Rama Forte e Chocolate",
+        "preco": 70.0,
+        "qtd": 0
+    },
+    "027": {
+        "nome": "Ervas",
+        "preco": 20.0,
+        "qtd": 0
+    },
+    "028": {
+        "nome": "Muda de Acerola",
+        "preco": 40.0,
+        "qtd": 0
+    },
+    "029": {
+        "nome": "Dracena Alba",
+        "preco": 40.0,
+        "qtd": 0
+    },
+    "030": {
+        "nome": "Renda Francesa",
+        "preco": 25.0,
+        "qtd": 0
+    },
+    "031": {
+        "nome": "Hibisco",
+        "preco": 30.0,
+        "qtd": 0
+    },
+    "032": {
+        "nome": "Mini Cacto",
+        "preco": 5.0,
+        "qtd": 0
+    },
+    "033": {
+        "nome": "Coco Anão 2.5metros",
+        "preco": 180.0,
+        "qtd": 0
+    },
+    "034": {
+        "nome": "Lírio da Paz",
+        "preco": 35.0,
+        "qtd": 0
+    },
+    "035": {
+        "nome": "Comigo Ninguém Pode",
+        "preco": 40.0,
+        "qtd": 1
+    },
+    "036": {
+        "nome": "Tostão",
+        "preco": 10.0,
+        "qtd": 0
+    },
+    "037": {
+        "nome": "Zamiocuca",
+        "preco": 55.0,
+        "qtd": 0
+    },
+    "038": {
+        "nome": "Ficus Bambino",
+        "preco": 180.0,
+        "qtd": 0
+    },
+    "039": {
+        "nome": "Vaso 42 de altura e 19 lagura",
+        "preco": 75.0,
+        "qtd": 0
+    },
+    "040": {
+        "nome": "Vaso 52 altura e 32 largura",
+        "preco": 160.0,
+        "qtd": 1
+    },
+    "041": {
+        "nome": "Vaso 41 altura e 32 largura",
+        "preco": 110.0,
+        "qtd": 0
+    },
+    "042": {
+        "nome": "Pedra nº1,2,3 para Vasos e Jardim Saco 30kg",
+        "preco": 70.0,
+        "qtd": 0
+    },
+    "043": {
+        "nome": "Terra Orgânica 19.8kg",
+        "preco": 25.0,
+        "qtd": 0
+    },
+    "044": {
+        "nome": "Vaso 31 altura e 19 largura",
+        "preco": 65.0,
+        "qtd": 0
+    },
+    "45": {
+        "nome": "margarida",
+        "preco": 30.0,
+        "custo": 10.0,
+        "qtd": 19
+    }
+}
