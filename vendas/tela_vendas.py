@@ -4,7 +4,7 @@ import os
 from tkinter import messagebox
 from datetime import datetime
 
-ARQUIVO = "produtos.json"
+ARQUIVO = "dados/produtos.json"
 
 # ===== CARREGAR PRODUTOS =====
 if os.path.exists(ARQUIVO):
@@ -14,7 +14,7 @@ else:
     produtos = {}
 
 def abrir_tela_vendas():
-    VENDAS_ARQUIVO = "vendas.json"
+    VENDAS_ARQUIVO = "dados/vendas.json"
     venda = {}
 
     janela = tk.Toplevel()
