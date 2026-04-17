@@ -4,7 +4,7 @@ import json
 import os
 from utils import normalizar_codigo
 
-ARQUIVO = "produtos.json"
+ARQUIVO = "dados/produtos.json"
 ESTOQUE_MINIMO = 5
 executando = False
 # ===== CARREGAR PRODUTOS =====
