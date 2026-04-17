@@ -5,8 +5,8 @@ import os
 from datetime import datetime
 from utils import normalizar_codigo
 
-ARQUIVO_VENDAS = "vendas.json"
-ARQUIVO_PRODUTOS = "produtos.json"
+ARQUIVO_VENDAS = "dados/vendas.json"
+ARQUIVO_PRODUTOS = "dados/produtos.json"
 
 
 # ===== CARREGAR =====
