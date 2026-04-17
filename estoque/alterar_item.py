@@ -3,7 +3,7 @@ from tkinter import messagebox
 import json
 import os
 
-ARQUIVO = "produtos.json"
+ARQUIVO = "dados/produtos.json"
 
 # ===== CARREGAR =====
 if os.path.exists(ARQUIVO):
