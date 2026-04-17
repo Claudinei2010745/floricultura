@@ -1,16 +1,13 @@
 import tkinter as tk
 from PIL import Image, ImageTk
-
-
-
 from vendas.tela_vendas import abrir_tela_vendas
 from custos import abrir_tela_custos
-from estoque import abrir_estoque
+from estoque.estoque import abrir_estoque
 from estoque.adicionar_item import abrir_tela_adicionar_item
-from remover_item import abrir_remover_item
-from relatorio_mensal import abrir_relatorio_mensal
+from estoque.remover_item import abrir_remover_item
+from relatorios.relatorio_mensal import abrir_relatorio_mensal
 from vendas.cancelar_venda import abrir_cancelar_venda
-from alterar_item import abrir_alterar_item
+from estoque.alterar_item import abrir_alterar_item
 from relatorio.relatorio_diario import abrir_relatorio_diario
 
 janela = tk.Tk()
