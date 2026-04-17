@@ -3,7 +3,7 @@ import json
 import os
 from datetime import datetime
 
-VENDAS_ARQUIVO = "vendas.json"
+VENDAS_ARQUIVO = "dados/vendas.json"
 
 def abrir_relatorio_diario():
 
