@@ -3,15 +3,15 @@ from PIL import Image, ImageTk
 
 
 
-from tela_vendas import abrir_tela_vendas
+from vendas.tela_vendas import abrir_tela_vendas
 from custos import abrir_tela_custos
 from estoque import abrir_estoque
-from adicionar_item import abrir_tela_adicionar_item
+from estoque.adicionar_item import abrir_tela_adicionar_item
 from remover_item import abrir_remover_item
 from relatorio_mensal import abrir_relatorio_mensal
-from cancelar_venda import abrir_cancelar_venda
+from vendas.cancelar_venda import abrir_cancelar_venda
 from alterar_item import abrir_alterar_item
-from relatorio_diario import abrir_relatorio_diario
+from relatorio.relatorio_diario import abrir_relatorio_diario
 
 janela = tk.Tk()
 # janela.title("Menu Vendas")
